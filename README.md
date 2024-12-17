@@ -34,8 +34,6 @@ Figma
 
 ## CODE:
 ```
-
-Homepage
 html
 
 <div class="container--0-">
@@ -295,7 +293,7 @@ Contact
   <div class="text-0-1-9">Haridharshini J</div>
 </div>
 
-
+css
 
 .container--0- {
   position: absolute;

@@ -33,6 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
+```
 
 Homepage
 html
@@ -586,6 +587,7 @@ Contact
   text-align: center;
   vertical-align: top;
 }
+```
 
 ## OUTPUT:
 
